@@ -86,10 +86,6 @@
         {
           "id": "carbon-fiber",
           "amount": 2
-        },
-        {
-          "id": "refined-gold",
-          "amount": 2
         }
       ],
       "bench": "fabricator"
@@ -114,10 +110,6 @@
         },
         {
           "id": "carbon-fiber",
-          "amount": 2
-        },
-        {
-          "id": "refined-gold",
           "amount": 2
         }
       ],
@@ -144,10 +136,6 @@
         {
           "id": "carbon-fiber",
           "amount": 2
-        },
-        {
-          "id": "refined-gold",
-          "amount": 2
         }
       ],
       "bench": "fabricator"
@@ -173,10 +161,6 @@
         {
           "id": "carbon-fiber",
           "amount": 2
-        },
-        {
-          "id": "refined-gold",
-          "amount": 2
         }
       ],
       "bench": "fabricator"
@@ -189,11 +173,11 @@
       "craft": [
         {
           "id": "aluminium-ingot",
-          "amount": 6
+          "amount": 4
         },
         {
           "id": "composites",
-          "amount": 18
+          "amount": 12
         },
         {
           "id": "steel-screw",
@@ -201,10 +185,6 @@
         },
         {
           "id": "carbon-fiber",
-          "amount": 2
-        },
-        {
-          "id": "refined-gold",
           "amount": 2
         }
       ],
